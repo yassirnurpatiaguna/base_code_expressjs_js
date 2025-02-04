@@ -1,0 +1,7 @@
+{
+    "watch": ["index.js", "routes/", "models/"],
+    "ext": "js,json",
+    "exec": "npm run lint && node index.js",
+    "ignore": ["node_modules/", "logs/"]
+  }
+  
